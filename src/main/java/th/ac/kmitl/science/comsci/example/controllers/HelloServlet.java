@@ -22,9 +22,9 @@ public class HelloServlet
         out.println("<h1>" + message + "</h1>");
         out.println("<ul>");
         out.println("<li>Bearchitect</li>");
+        out.println("<li>58050237 Chayapol Limanon</li>");
 	out.println("<li>58050418 Auttapon Kan-uphai</li>");
         out.println("</ul>");
 
     }
-
 }

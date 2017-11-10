@@ -20,15 +20,11 @@ public class HelloServlet
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
         out.println("<h1>" + message + "</h1>");
-<<<<<<< HEAD
-	out.println("<ul>");
-	out.println("<li>Auttapon</li>");
-	out.println("</ul>");
-=======
         out.println("<ul>");
         out.println("<li>Bearchitect</li>");
+	out.println("<li>58050418 Auttapon Kan-uphai</li>");
         out.println("</ul>");
->>>>>>> upstream/master
+
     }
 
 }

@@ -24,6 +24,8 @@ public class HelloServlet
         out.println("<li>Bearchitect</li>");
         out.println("<li>58050237 Chayapol Limanon</li>");
         out.println("<li>57050294 Pichavarit Panyokaew</li>");
+	out.println("<li>58050418 Auttapon Kan-uphai</li>");
         out.println("</ul>");
+
     }
 }

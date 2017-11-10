@@ -23,11 +23,8 @@ public class HelloServlet
         out.println("<ul>");
         out.println("<li>Bearchitect</li>");
         out.println("<li>58050237 Chayapol Limanon</li>");
-<<<<<<< HEAD
-		out.println("<li>58050350 Peeranat Nivesviwat</li>");
-=======
-        out.println("<li>57050294 Pichavarit Panyokaew</li>");
->>>>>>> upstream/master
+        out.println("<li>57050294 Pichavarit Panyokaew</li>")
+        out.println("<li>58050350 Peeranat Nivesviwat</li>");
         out.println("</ul>");
     }
 }

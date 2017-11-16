@@ -27,7 +27,7 @@ public class HelloServlet
         out.println("<ul>");
         
         NamePrinterLoader.getInstance().printAllNames(out);
-        
+        out.println("<li>58050231 Pattharachat Chanakitkumjorn</li>");
         out.println("</ul>");
     }
 }

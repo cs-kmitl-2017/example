@@ -1,12 +1,12 @@
 package th.ac.kmitl.science.comsci.example.models;
 public class City {
-    String cityName;
+    String name;
 
-    public City(String cityName){
-        this.cityName = cityName;
+    public City(String name){
+        this.name = name;
     }
     public String getName(){
-        return cityName;
+        return name;
     }
 
 }

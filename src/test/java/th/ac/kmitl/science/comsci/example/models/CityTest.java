@@ -8,6 +8,7 @@ public class CityTest {
     public void testInputCityName(){
         String cityName = "Bangkok";
         City ctyName = new City(cityName);
+
         Assert.assertEquals(ctyName.getName(),cityName);
     }
 

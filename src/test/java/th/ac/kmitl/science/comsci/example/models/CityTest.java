@@ -7,9 +7,9 @@ public class CityTest {
     @Test
     public void testInputCityName(){
         String cityName = "Bangkok";
-        City ctyName = new City(cityName);
+        City city = new City(cityName);
 
-        Assert.assertEquals(ctyName.getName(),cityName);
+        Assert.assertEquals(city.getName(),cityName);
     }
 
 }

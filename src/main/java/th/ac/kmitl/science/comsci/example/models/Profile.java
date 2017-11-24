@@ -4,5 +4,4 @@ public abstract class Profile {
     private String ID;
     private String Name;
     private Address address;
-    
 }
